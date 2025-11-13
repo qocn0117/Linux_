@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int memo() {
+int memo(){
 	printf("func memo.\n");
 	return 0;
 }
